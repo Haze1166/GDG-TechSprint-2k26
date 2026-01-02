@@ -1,0 +1,8 @@
+# Core dependencies for Real-time Crisis Intelligence Assistant
+pathway
+fastapi
+uvicorn
+httpx
+openai # or use transformers if you prefer HuggingFace
+feedparser # for RSS feeds
+jinja2 # for web templating
