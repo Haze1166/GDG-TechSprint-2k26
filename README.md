@@ -81,7 +81,7 @@ Follow these instructions to set up the project locally.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/silent-disease.git
+git clone https://github.com/haze1166/gdg-techsprint-2k26.git
 cd silent-disease
 ```
 
