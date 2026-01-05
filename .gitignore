@@ -1,0 +1,43 @@
+# Dependencies
+node_modules/
+*/node_modules/
+
+# Builds
+dist/
+build/
+frontend/dist/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Env
+backend/.env
+frontend/.env.local
+.env
+
+# Firebase
+.firebaserc
+firebase-debug.log
+
+# Service account keys
+*.json
+*service-account*.json
+
+# Docker
+docker-compose.override.yml
+
+# Build
+dist/
+build/
